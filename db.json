@@ -1,41 +1,9 @@
-[{
-  "name": "Lilia",
-  "userID": "76-9395154",
-  "firstName": "Tommy",
-  "middleName": "Aloïs",
-  "lastName": "Towns",
-  "email": "ttowns0@wisc.edu",
-  "phone": "772-50-2024"
-}, {
-  "name": "Juliette",
-  "userID": "60-3262336",
-  "firstName": "Ulrica",
-  "middleName": "Maëlys",
-  "lastName": "Blaber",
-  "email": "ublaber1@nydailynews.com",
-  "phone": "557-32-7633"
-}, {
-  "name": "Pollyanna",
-  "userID": "74-0920060",
-  "firstName": "Evangelin",
-  "middleName": "Béatrice",
-  "lastName": "Terbrugge",
-  "email": "eterbrugge2@yelp.com",
-  "phone": "441-24-4398"
-}, {
-  "name": "Claudia",
-  "userID": "62-1539741",
-  "firstName": "Reeta",
-  "middleName": "Béatrice",
-  "lastName": "Hulks",
-  "email": "rhulks3@bbb.org",
-  "phone": "500-80-2578"
-}, {
-  "name": "Roscoe",
-  "userID": "23-8269851",
-  "firstName": "Allison",
-  "middleName": "Naëlle",
-  "lastName": "Buddock",
-  "email": "abuddock4@nyu.edu",
-  "phone": "726-34-1333"
-}]
+{
+  "name": "Aaron",
+  "userID": "A1BC2DD",
+  "firstName": "Aaron",
+  "middleName": "C",
+  "lastName": "Rodgers",
+  "email": "arodgers@mmm.com",
+  "phone": "715-209-1123"
+}
